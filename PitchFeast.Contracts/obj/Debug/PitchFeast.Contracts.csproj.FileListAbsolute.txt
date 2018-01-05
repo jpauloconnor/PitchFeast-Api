@@ -1,0 +1,13 @@
+C:\DotNetProjects\PitchFeast\PitchFeast.Contracts\bin\Debug\PitchFeast.Contracts.dll.config
+C:\DotNetProjects\PitchFeast\PitchFeast.Contracts\bin\Debug\PitchFeast.Contracts.dll
+C:\DotNetProjects\PitchFeast\PitchFeast.Contracts\bin\Debug\PitchFeast.Contracts.pdb
+C:\DotNetProjects\PitchFeast\PitchFeast.Contracts\bin\Debug\EntityFramework.dll
+C:\DotNetProjects\PitchFeast\PitchFeast.Contracts\bin\Debug\EntityFramework.SqlServer.dll
+C:\DotNetProjects\PitchFeast\PitchFeast.Contracts\bin\Debug\PitchFeast.Models.dll
+C:\DotNetProjects\PitchFeast\PitchFeast.Contracts\bin\Debug\PitchFeast.Models.pdb
+C:\DotNetProjects\PitchFeast\PitchFeast.Contracts\bin\Debug\PitchFeast.Models.dll.config
+C:\DotNetProjects\PitchFeast\PitchFeast.Contracts\bin\Debug\EntityFramework.xml
+C:\DotNetProjects\PitchFeast\PitchFeast.Contracts\bin\Debug\EntityFramework.SqlServer.xml
+C:\DotNetProjects\PitchFeast\PitchFeast.Contracts\obj\Debug\PitchFeast.Contracts.csprojResolveAssemblyReference.cache
+C:\DotNetProjects\PitchFeast\PitchFeast.Contracts\obj\Debug\PitchFeast.Contracts.dll
+C:\DotNetProjects\PitchFeast\PitchFeast.Contracts\obj\Debug\PitchFeast.Contracts.pdb

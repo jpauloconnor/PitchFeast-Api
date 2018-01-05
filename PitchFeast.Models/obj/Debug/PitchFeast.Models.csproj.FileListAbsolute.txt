@@ -1,0 +1,10 @@
+C:\DotNetProjects\PitchFeast\PitchFeast.Models\bin\Debug\PitchFeast.Models.dll.config
+C:\DotNetProjects\PitchFeast\PitchFeast.Models\bin\Debug\PitchFeast.Models.dll
+C:\DotNetProjects\PitchFeast\PitchFeast.Models\bin\Debug\PitchFeast.Models.pdb
+C:\DotNetProjects\PitchFeast\PitchFeast.Models\bin\Debug\EntityFramework.dll
+C:\DotNetProjects\PitchFeast\PitchFeast.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\DotNetProjects\PitchFeast\PitchFeast.Models\bin\Debug\EntityFramework.xml
+C:\DotNetProjects\PitchFeast\PitchFeast.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\DotNetProjects\PitchFeast\PitchFeast.Models\obj\Debug\PitchFeast.Models.csprojResolveAssemblyReference.cache
+C:\DotNetProjects\PitchFeast\PitchFeast.Models\obj\Debug\PitchFeast.Models.dll
+C:\DotNetProjects\PitchFeast\PitchFeast.Models\obj\Debug\PitchFeast.Models.pdb
