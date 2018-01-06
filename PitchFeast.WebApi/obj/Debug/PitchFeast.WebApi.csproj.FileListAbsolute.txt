@@ -114,3 +114,6 @@ C:\DotNetProjects\PitchFeast\PitchFeast.WebApi\bin\Microsoft.AI.WindowsServer.xm
 C:\DotNetProjects\PitchFeast\PitchFeast.WebApi\bin\Microsoft.AI.Web.xml
 C:\DotNetProjects\PitchFeast\PitchFeast.WebApi\obj\Debug\PitchFeast.WebApi.dll
 C:\DotNetProjects\PitchFeast\PitchFeast.WebApi\obj\Debug\PitchFeast.WebApi.pdb
+C:\DotNetProjects\PitchFeast\PitchFeast.WebApi\bin\Microsoft.Owin.Cors.dll
+C:\DotNetProjects\PitchFeast\PitchFeast.WebApi\bin\System.Web.Cors.dll
+C:\DotNetProjects\PitchFeast\PitchFeast.WebApi\bin\Microsoft.Owin.Cors.xml

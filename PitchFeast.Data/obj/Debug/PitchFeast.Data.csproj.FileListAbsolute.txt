@@ -12,3 +12,6 @@ C:\DotNetProjects\PitchFeast\PitchFeast.Data\bin\Debug\Microsoft.AspNet.Identity
 C:\DotNetProjects\PitchFeast\PitchFeast.Data\obj\Debug\PitchFeast.Data.csprojResolveAssemblyReference.cache
 C:\DotNetProjects\PitchFeast\PitchFeast.Data\obj\Debug\PitchFeast.Data.dll
 C:\DotNetProjects\PitchFeast\PitchFeast.Data\obj\Debug\PitchFeast.Data.pdb
+C:\DotNetProjects\PitchFeast\PitchFeast.Data\obj\Debug\PitchFeast.Data.Migrations.InitialCreate.resources
+C:\DotNetProjects\PitchFeast\PitchFeast.Data\obj\Debug\PitchFeast.Data.csproj.GenerateResource.Cache
+C:\DotNetProjects\PitchFeast\PitchFeast.Data\obj\Debug\PitchFeast.Data.Migrations.initial.resources
